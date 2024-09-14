@@ -1,1 +1,1 @@
-# Is-The-Word-A-Palindrome-
+# Is-The-Word-A-Palindrome-Program
